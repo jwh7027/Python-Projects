@@ -6,5 +6,5 @@
 
 
 ### 실행결과
-<https://blog.naver.com/yas7745>
+[계산기 GUI](https://blog.naver.com/yas7745/222972310589)
 
