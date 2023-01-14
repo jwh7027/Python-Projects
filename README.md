@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Study
 
 ```
 계산기 GUI 만들기
